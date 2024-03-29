@@ -46,7 +46,7 @@ export const TIERS_ZH: Array<Tier> = [
     description: "从GitHub仓库轻松安装【痕迹】，开始带有增强隐私和自定义选项的浏览历史管理。",
     features: [
       "完全免费",
-      "生命周期内浏览历史的云存储",
+      "永久云存储",
       "完整浏览历史跟踪",
       "可定制的隐私设置",
     ],
@@ -61,7 +61,6 @@ export const TIERS_ZH: Array<Tier> = [
     description: "订阅【痕迹】高级版，获取包括浏览历史云存储和个性化分析在内的高级功能。",
     price: "¥34.99/月",
     features: [
-      "浏览历史的云存储",
       "高级数据分析",
       "优先支持",
       "专属定制选项",

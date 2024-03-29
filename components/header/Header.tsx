@@ -90,8 +90,8 @@ const Header = () => {
                   <div>
                     <Link
                       href="/"
-                      aria-label="Landing Page Boilerplate"
-                      title="Landing Page Boilerplate"
+                      aria-label="痕迹 | WebTracer"
+                      title="痕迹 | WebTracer"
                       className="inline-flex items-center"
                     >
                       <Image
@@ -102,7 +102,7 @@ const Header = () => {
                         height={32}
                       />
                       <span className="ml-2 text-xl font-bold tracking-wide text-gray-950 dark:text-gray-300">
-                        Landing Page
+                        痕迹 | WebTracer
                       </span>
                     </Link>
                   </div>
